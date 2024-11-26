@@ -4,7 +4,7 @@ function header(){
     return(
         <div className='header'>
             <div className="logo">
-                <img id="logo" src="src/321 Movies Logo.png"></img>
+                <img id="logo" src="src/assets/321 Movies Logo.png"></img>
             </div>
             <div className="search">
                 <input id="search"type="text" placeholder="Search"></input>
